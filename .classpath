@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="AnalisadorCabecalhos/src/main/java"/>
+	<classpathentry kind="src" path="GerenciadorMetodosHTTP/src/main/java"/>
+	<classpathentry kind="src" path="GerenciadorSessao/src/main/java"/>
+	<classpathentry kind="src" path="ManipuladorCorpo/src/main/java"/>
+	<classpathentry kind="src" path="TesteStatusHTTP/src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

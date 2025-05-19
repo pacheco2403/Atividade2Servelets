@@ -1,1 +1,1 @@
-O arquivo principal é o zip 
+O arquivo é o zip 
